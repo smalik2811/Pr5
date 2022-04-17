@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Microbiology" />
+    <item android:title="Computer Science" />
+    <item android:title="Zoology" />
+    <item android:title="Botany" />
+    <item android:title="Instrumentation" />
+</menu>
